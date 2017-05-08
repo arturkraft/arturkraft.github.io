@@ -1,2 +1,3 @@
 name: Artur Kraft, e-commerce specialist
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
