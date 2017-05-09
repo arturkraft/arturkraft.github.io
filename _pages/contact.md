@@ -5,12 +5,4 @@ description: "Contact Artur Kraft"
 permalink: /contact.html
 ---
 
-<form action="https://getsimpleform.com/messages?form_api_token=82f7f1a6ed90bb9b68168a780d01c0a6" method="post">
-  <!-- the redirect_to is optional, the form will redirect to the referrer on submission 
-  <input type='hidden' name='redirect_to' value='<the complete return url e.g. http://fooey.com/thank-you.html>' />
-  all your input fields here.... -->
-  <input type="text" name="subject" />
-  <textarea name="message" />
-  <input type='text' name='test' />
-  <input type='submit' value='Test form' />
-</form>
+{% include form.html %}
