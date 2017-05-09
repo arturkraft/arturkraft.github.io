@@ -5,5 +5,5 @@ description: "Artur Kraft"
 permalink: /aft/
 redirect_from:
   - /aft/
-  - /
+  - .
 ---
