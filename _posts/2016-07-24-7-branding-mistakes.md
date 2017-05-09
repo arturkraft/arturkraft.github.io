@@ -2,6 +2,7 @@
 title: 7 Branding Mistakes
 date: 2016-07-24
 author: Artur Kraft
+image: https://arturkraft.com/stf/uploads/2016/07/trash-1445198-640x480.jpg
 layout: post
 ---
 Often, Businesses do not fully understand what is required to successfully ‘brand’ their business. A good logo is not everything that you would use to describe your corporate identity. In fact, it is just the tip of the iceberg! In this article, we will have a look at the more common mistakes in understanding branding and topics related to in branding.
