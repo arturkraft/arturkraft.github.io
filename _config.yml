@@ -60,6 +60,12 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-redirect-from
+  
+whitelist:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-redirect-from
 
 # Exclude list
 include: [_pages]
