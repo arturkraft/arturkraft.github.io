@@ -43,24 +43,24 @@ comments:
   moderation: true
 
   # Name of the site. Used in notification emails.
-  name: "arturkraft.com"
+  name: "github.arturkraft.com"
 
   # Notification settings. When enabled, users can choose to receive notifications
   # via email when someone adds a reply or a new comment. This requires an account
   # with Mailgun, which you can get for free at http://mailgun.com.
   #notifications:
     # Enable notifications
-    enabled: true
+    #enabled: true
 
     # (!) ENCRYPTED
     #
     # Mailgun API key
-    apiKey: "key-de9b3f037dcd8e6ab4a9939775439924"
+    #apiKey: "key-de9b3f037dcd8e6ab4a9939775439924"
 
     # (!) ENCRYPTED
     #
     # Mailgun domain (encrypted)
-    domain: "mg.arturkraft.com"
+    #domain: "mg.arturkraft.com"
 
   # (*) REQUIRED
   #
