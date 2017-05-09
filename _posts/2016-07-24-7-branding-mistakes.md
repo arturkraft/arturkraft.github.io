@@ -1,233 +1,67 @@
 ---
-id: 6101
-title: news
-date: 2016-08-14T13:42:15+00:00
+title: 7 Branding Mistakes
+date: 2016-07-24
 author: Artur Kraft
-layout: page
-guid: http://arturkraft.com/?page_id=6101
+layout: post
 ---
-<section class="phtpb\_section pht-parent phtpb\_section--padding-none" >
+Often, Businesses do not fully understand what is required to successfully ‘brand’ their business. A good logo is not everything that you would use to describe your corporate identity. In fact, it is just the tip of the iceberg! In this article, we will have a look at the more common mistakes in understanding branding and topics related to in branding.
 
-<div  class="pht-wrapper pht-parent">
-  <div class="pht-layout ">
-    <!-- -->
-    
-    <div  class="pht-layout__item ">
-      <div class="pht-colorbox  pht-box--valign-top " style="">
-        <div  class="phtpb_item pht-mb phtpb_width--1plus phtpb_width--075plus phtpb_width--value10"  >
-          <section class="phtpb_posts_grid js-pht-lightboxgallery pht-index pht-index--grid phtpb_masonry_container index-isotope-unloaded phtpb_masonry_container--f"> <article class=" pht-index--grid__item index__item pht-zeta pht-parent post-6357 type-post status-publish format-standard has-post-thumbnail hentry category-articles category-blog tag-advice tag-article tag-blog tag-e-commerce tag-ecommerce tag-php7 tag-speed tag-website tag-wordpress tag-wp-fastest-cache"> <figure class="pht-fig pht-white"><img width="480" height="280" src="https://arturkraft.com/stf/uploads/2017/03/funny-portrait-of-two-super-heroes-67557450-480x280.jpg" class="pht-img--fill wp-post-image" alt="faster website - Artur Kraft" srcset="https://arturkraft.com/stf/uploads/2017/03/funny-portrait-of-two-super-heroes-67557450-480x280.jpg 480w, https://arturkraft.com/stf/uploads/2017/03/funny-portrait-of-two-super-heroes-67557450-300x175.jpg 300w, https://arturkraft.com/stf/uploads/2017/03/funny-portrait-of-two-super-heroes-67557450-752x438.jpg 752w, https://arturkraft.com/stf/uploads/2017/03/funny-portrait-of-two-super-heroes-67557450-558x325.jpg 558w, https://arturkraft.com/stf/uploads/2017/03/funny-portrait-of-two-super-heroes-67557450.jpg 800w" sizes="(max-width: 480px) 100vw, 480px" />
-          
-          <div class="pht-fig__link--ctnr">
-            <a class="pht-fig__link pht-fig__link--hoverdir pht-fig__link--main pht-text-center a-a a-a--no-h" href="https://arturkraft.com/make-wordpress-website-super-fast-5-easy-steps-free/">
-            
-            <div class="pht-fig__titles pht-epsilon">
-              <span class="pht-actionfont">Read more</span>
-            </div></a>
-            
-            <a href="https://arturkraft.com/stf/uploads/2017/03/funny-portrait-of-two-super-heroes-67557450.jpg" class="pht-fig__link js-pht-magnific_popup pht-fig__link--secondary a-a a-a--no-h"><i class="pht-fig__link__string pht-ic-f1-arrow-expand-alt"></i></a>
-          </div></figure> 
-          
-          <div class="pht-box pht-box--highlight pht-parent pht-border-hover">
-            <header class="entry-header pht-text-center"> 
-            
-            <div class="pht-micro entry-meta entry-meta--top entry-meta-date pht-italic container-a container-a--h">
-              <a class="entry-date" href="https://arturkraft.com/make-wordpress-website-super-fast-5-easy-steps-free/"><time class="entry-date" datetime="2017-03-05T00:28:25+00:00">March 5, 2017</time></a>
-            </div>
-            
-            <a href="https://arturkraft.com/make-wordpress-website-super-fast-5-easy-steps-free/" class="a-a a-a--h" rel="bookmark">
-            
-            <h2 class="entry-title pht-heading hN pht-mb0 ">
-              Make your WordPress website super fast in 5 easy steps for free!
-            </h2></a></header> 
-            
-            <div class="entry-summary pht-entry-summary pht-mt cf">
-              <p>
-                Probably you&#8217;re reading this article because your website is not as fast as you wish it would be. Fear not, speeding up your website involves some actions from you, but it&#8217;s easier than you might think. There are few easy tricks to make your website running with a light speed (for free!). You may ask [&hellip;]
-              </p>
-            </div>
-            
-            <div class="entry-meta pht-micro entry-meta--bottom container-a container-a--h pht-text-center pht-italic pht-mt">
-              <span class="author byline">by <a class="url fn n" href="https://arturkraft.com/author/kraft/" title="View all posts by Artur Kraft" rel="author">Artur Kraft</a></span> &middot; <span class="categories-links">in <span> <a href="https://arturkraft.com/articles/" rel="tag">articles</a>, <a href="https://arturkraft.com/blog/" rel="tag">blog</a></span></span> &middot; <span class="entry-meta nobr"><i class="pht-ic-f1-comments"></i><a href="https://arturkraft.com/make-wordpress-website-super-fast-5-easy-steps-free/#respond"> <span class="leave-reply"> 0</span></a></span> <!-- .comments-link -->
-            </div>
-            
-            <!-- .entry-meta -->
-          </div></article> <article class=" pht-index--grid__item index__item pht-zeta pht-parent post-6207 type-post status-publish format-image has-post-thumbnail hentry category-blog tag-blog tag-insta tag-instagram tag-photography tag-photos tag-selling tag-shop tag-twenty20 post_format-post-format-image"> <figure class="pht-fig pht-white">
-          
-          <img width="480" height="349" src="https://arturkraft.com/stf/uploads/2017/02/6369cf54-307d-4754-bed1-4eca7c5e2c78-480x349.jpg" class="pht-img--fill wp-post-image" alt="" srcset="https://arturkraft.com/stf/uploads/2017/02/6369cf54-307d-4754-bed1-4eca7c5e2c78-480x349.jpg 480w, https://arturkraft.com/stf/uploads/2017/02/6369cf54-307d-4754-bed1-4eca7c5e2c78-300x218.jpg 300w, https://arturkraft.com/stf/uploads/2017/02/6369cf54-307d-4754-bed1-4eca7c5e2c78-418x304.jpg 418w, https://arturkraft.com/stf/uploads/2017/02/6369cf54-307d-4754-bed1-4eca7c5e2c78-276x200.jpg 276w, https://arturkraft.com/stf/uploads/2017/02/6369cf54-307d-4754-bed1-4eca7c5e2c78-552x401.jpg 552w, https://arturkraft.com/stf/uploads/2017/02/6369cf54-307d-4754-bed1-4eca7c5e2c78-494x359.jpg 494w, https://arturkraft.com/stf/uploads/2017/02/6369cf54-307d-4754-bed1-4eca7c5e2c78-436x316.jpg 436w, https://arturkraft.com/stf/uploads/2017/02/6369cf54-307d-4754-bed1-4eca7c5e2c78-479x348.jpg 479w, https://arturkraft.com/stf/uploads/2017/02/6369cf54-307d-4754-bed1-4eca7c5e2c78-316x229.jpg 316w, https://arturkraft.com/stf/uploads/2017/02/6369cf54-307d-4754-bed1-4eca7c5e2c78-632x458.jpg 632w, https://arturkraft.com/stf/uploads/2017/02/6369cf54-307d-4754-bed1-4eca7c5e2c78-476x346.jpg 476w, https://arturkraft.com/stf/uploads/2017/02/6369cf54-307d-4754-bed1-4eca7c5e2c78-380x276.jpg 380w, https://arturkraft.com/stf/uploads/2017/02/6369cf54-307d-4754-bed1-4eca7c5e2c78.jpg 640w" sizes="(max-width: 480px) 100vw, 480px" />
-          
-          <div class="pht-fig__link--ctnr">
-            <a class="pht-fig__link pht-fig__link--hoverdir pht-fig__link--main pht-text-center a-a a-a--no-h" href="https://arturkraft.com/selling-instagram-photos-twenty20-app/">
-            
-            <div class="pht-fig__titles pht-epsilon">
-              <span class="pht-actionfont">Read more</span>
-            </div></a>
-            
-            <a href="https://arturkraft.com/stf/uploads/2017/02/6369cf54-307d-4754-bed1-4eca7c5e2c78.jpg" class="pht-fig__link js-pht-magnific_popup pht-fig__link--secondary a-a a-a--no-h"><i class="pht-fig__link__string pht-ic-f1-arrow-expand-alt"></i></a>
-          </div></figure> 
-          
-          <div class="pht-box pht-box--highlight pht-parent pht-border-hover">
-            <header class="entry-header pht-text-center"> 
-            
-            <div class="pht-micro entry-meta entry-meta--top entry-meta-date pht-italic container-a container-a--h">
-              <a class="entry-date" href="https://arturkraft.com/selling-instagram-photos-twenty20-app/"><time class="entry-date" datetime="2017-02-18T20:17:22+00:00">February 18, 2017</time></a>
-            </div>
-            
-            <a href="https://arturkraft.com/selling-instagram-photos-twenty20-app/" class="a-a a-a--h" rel="bookmark">
-            
-            <h2 class="entry-title pht-heading hN pht-mb0 ">
-              Selling Instagram photos on Twenty20 app
-            </h2></a></header>
-            
-            <div class="entry-meta pht-micro entry-meta--bottom container-a container-a--h pht-text-center pht-italic pht-mt">
-              <span class="author byline">by <a class="url fn n" href="https://arturkraft.com/author/kraft/" title="View all posts by Artur Kraft" rel="author">Artur Kraft</a></span> &middot; <span class="categories-links">in <span> <a href="https://arturkraft.com/blog/" rel="tag">blog</a></span></span> &middot; <span class="entry-meta nobr"><i class="pht-ic-f1-comments"></i><a href="https://arturkraft.com/selling-instagram-photos-twenty20-app/#respond"> <span class="leave-reply"> 0</span></a></span> <!-- .comments-link -->
-            </div>
-            
-            <!-- .entry-meta -->
-          </div></article> <article class=" pht-index--grid__item index__item pht-zeta pht-parent post-6197 type-post status-draft format-image has-post-thumbnail hentry category-blog tag-blog tag-instagram tag-photography tag-photos tag-post tag-selling-online tag-twenty20 post_format-post-format-image"> <figure class="pht-fig pht-white">
-          
-          <img width="480" height="720" src="https://arturkraft.com/stf/uploads/2016/08/camera-1521248-639x958-480x720.jpg" class="pht-img--fill wp-post-image" alt="" srcset="https://arturkraft.com/stf/uploads/2016/08/camera-1521248-639x958-480x720.jpg 480w, https://arturkraft.com/stf/uploads/2016/08/camera-1521248-639x958-200x300.jpg 200w, https://arturkraft.com/stf/uploads/2016/08/camera-1521248-639x958.jpg 639w" sizes="(max-width: 480px) 100vw, 480px" />
-          
-          <div class="pht-fig__link--ctnr">
-            <a class="pht-fig__link pht-fig__link--hoverdir pht-fig__link--main pht-text-center a-a a-a--no-h" href="https://arturkraft.com/?p=6197">
-            
-            <div class="pht-fig__titles pht-epsilon">
-              <span class="pht-actionfont">Read more</span>
-            </div></a>
-            
-            <a href="https://arturkraft.com/stf/uploads/2016/08/camera-1521248-639x958.jpg" class="pht-fig__link js-pht-magnific_popup pht-fig__link--secondary a-a a-a--no-h"><i class="pht-fig__link__string pht-ic-f1-arrow-expand-alt"></i></a>
-          </div></figure> 
-          
-          <div class="pht-box pht-box--highlight pht-parent pht-border-hover">
-            <header class="entry-header pht-text-center"> 
-            
-            <div class="pht-micro entry-meta entry-meta--top entry-meta-date pht-italic container-a container-a--h">
-              <a class="entry-date" href="https://arturkraft.com/?p=6197"><time class="entry-date" datetime="2017-02-18T19:40:24+00:00">February 18, 2017</time></a>
-            </div>
-            
-            <a href="https://arturkraft.com/?p=6197" class="a-a a-a--h" rel="bookmark">
-            
-            <h2 class="entry-title pht-heading hN pht-mb0 ">
-              Selling your Instagram photos with Twenty20
-            </h2></a></header>
-            
-            <div class="entry-meta pht-micro entry-meta--bottom container-a container-a--h pht-text-center pht-italic pht-mt">
-              <span class="author byline">by <a class="url fn n" href="https://arturkraft.com/author/kraft/" title="View all posts by Artur Kraft" rel="author">Artur Kraft</a></span> &middot; <span class="categories-links">in <span> <a href="https://arturkraft.com/blog/" rel="tag">blog</a></span></span> &middot; <span class="entry-meta nobr"><i class="pht-ic-f1-comments"></i><a href="https://arturkraft.com/?p=6197#respond"> <span class="leave-reply"> 0</span></a></span> <!-- .comments-link -->
-            </div>
-            
-            <!-- .entry-meta -->
-          </div></article> <article class=" pht-index--grid__item index__item pht-zeta pht-parent post-6092 type-post status-publish format-standard has-post-thumbnail hentry category-articles category-blog tag-article tag-sharable tag-useful-tips tag-website"> <figure class="pht-fig pht-white">
-          
-          <img width="480" height="457" src="https://arturkraft.com/stf/uploads/2016/08/ecommerce-website-design-company-1619790-639x608-480x457.jpg" class="pht-img--fill wp-post-image" alt="" srcset="https://arturkraft.com/stf/uploads/2016/08/ecommerce-website-design-company-1619790-639x608-480x457.jpg 480w, https://arturkraft.com/stf/uploads/2016/08/ecommerce-website-design-company-1619790-639x608-300x285.jpg 300w, https://arturkraft.com/stf/uploads/2016/08/ecommerce-website-design-company-1619790-639x608.jpg 639w" sizes="(max-width: 480px) 100vw, 480px" />
-          
-          <div class="pht-fig__link--ctnr">
-            <a class="pht-fig__link pht-fig__link--hoverdir pht-fig__link--main pht-text-center a-a a-a--no-h" href="https://arturkraft.com/website-general-tips/">
-            
-            <div class="pht-fig__titles pht-epsilon">
-              <span class="pht-actionfont">Read more</span>
-            </div></a>
-            
-            <a href="https://arturkraft.com/stf/uploads/2016/08/ecommerce-website-design-company-1619790-639x608.jpg" class="pht-fig__link js-pht-magnific_popup pht-fig__link--secondary a-a a-a--no-h"><i class="pht-fig__link__string pht-ic-f1-arrow-expand-alt"></i></a>
-          </div></figure> 
-          
-          <div class="pht-box pht-box--highlight pht-parent pht-border-hover">
-            <header class="entry-header pht-text-center"> 
-            
-            <div class="pht-micro entry-meta entry-meta--top entry-meta-date pht-italic container-a container-a--h">
-              <a class="entry-date" href="https://arturkraft.com/website-general-tips/"><time class="entry-date" datetime="2016-08-14T13:22:08+00:00">August 14, 2016</time></a>
-            </div>
-            
-            <a href="https://arturkraft.com/website-general-tips/" class="a-a a-a--h" rel="bookmark">
-            
-            <h2 class="entry-title pht-heading hN pht-mb0 ">
-              Website general tips
-            </h2></a></header> 
-            
-            <div class="entry-summary pht-entry-summary pht-mt cf">
-              <p>
-                If you’re already trading, or you’re looking to start trading in the near future and you’re not present online, you’ll be missing out on valuable and somewhat essential opportunities. Or maybe you already have your business information online however the content is not at a high quality &#8211; this can be even worse!
-              </p>
-            </div>
-            
-            <div class="entry-meta pht-micro entry-meta--bottom container-a container-a--h pht-text-center pht-italic pht-mt">
-              <span class="author byline">by <a class="url fn n" href="https://arturkraft.com/author/kraft/" title="View all posts by Artur Kraft" rel="author">Artur Kraft</a></span> &middot; <span class="categories-links">in <span> <a href="https://arturkraft.com/articles/" rel="tag">articles</a>, <a href="https://arturkraft.com/blog/" rel="tag">blog</a></span></span> &middot; <span class="entry-meta nobr"><i class="pht-ic-f1-comments"></i><a href="https://arturkraft.com/website-general-tips/#respond"> <span class="leave-reply"> 0</span></a></span> <!-- .comments-link -->
-            </div>
-            
-            <!-- .entry-meta -->
-          </div></article> <article class=" pht-index--grid__item index__item pht-zeta pht-parent post-109 type-post status-publish format-image has-post-thumbnail hentry category-blog tag-blog tag-instagram tag-photos tag-post post_format-post-format-image"> <figure class="pht-fig pht-white">
-          
-          <img width="480" height="720" src="https://arturkraft.com/stf/uploads/2016/08/camera-1521248-639x958-480x720.jpg" class="pht-img--fill wp-post-image" alt="" srcset="https://arturkraft.com/stf/uploads/2016/08/camera-1521248-639x958-480x720.jpg 480w, https://arturkraft.com/stf/uploads/2016/08/camera-1521248-639x958-200x300.jpg 200w, https://arturkraft.com/stf/uploads/2016/08/camera-1521248-639x958.jpg 639w" sizes="(max-width: 480px) 100vw, 480px" />
-          
-          <div class="pht-fig__link--ctnr">
-            <a class="pht-fig__link pht-fig__link--hoverdir pht-fig__link--main pht-text-center a-a a-a--no-h" href="https://arturkraft.com/instagram/">
-            
-            <div class="pht-fig__titles pht-epsilon">
-              <span class="pht-actionfont">Read more</span>
-            </div></a>
-            
-            <a href="https://arturkraft.com/stf/uploads/2016/08/camera-1521248-639x958.jpg" class="pht-fig__link js-pht-magnific_popup pht-fig__link--secondary a-a a-a--no-h"><i class="pht-fig__link__string pht-ic-f1-arrow-expand-alt"></i></a>
-          </div></figure> 
-          
-          <div class="pht-box pht-box--highlight pht-parent pht-border-hover">
-            <header class="entry-header pht-text-center"> 
-            
-            <div class="pht-micro entry-meta entry-meta--top entry-meta-date pht-italic container-a container-a--h">
-              <a class="entry-date" href="https://arturkraft.com/instagram/"><time class="entry-date" datetime="2016-08-14T09:05:15+00:00">August 14, 2016</time></a>
-            </div>
-            
-            <a href="https://arturkraft.com/instagram/" class="a-a a-a--h" rel="bookmark">
-            
-            <h2 class="entry-title pht-heading hN pht-mb0 ">
-              Instagram
-            </h2></a></header>
-            
-            <div class="entry-meta pht-micro entry-meta--bottom container-a container-a--h pht-text-center pht-italic pht-mt">
-              <span class="author byline">by <a class="url fn n" href="https://arturkraft.com/author/kraft/" title="View all posts by Artur Kraft" rel="author">Artur Kraft</a></span> &middot; <span class="categories-links">in <span> <a href="https://arturkraft.com/blog/" rel="tag">blog</a></span></span> &middot; <span class="entry-meta nobr"><i class="pht-ic-f1-comments"></i><a href="https://arturkraft.com/instagram/#comments"> 1</a></span> <!-- .comments-link -->
-            </div>
-            
-            <!-- .entry-meta -->
-          </div></article> <article class=" pht-index--grid__item index__item pht-zeta pht-parent post-113 type-post status-publish format-standard has-post-thumbnail hentry category-articles category-blog tag-article tag-branding tag-mistakes tag-useful-tips"> <figure class="pht-fig pht-white">
-          
-          <img width="480" height="360" src="https://arturkraft.com/stf/uploads/2016/07/trash-1445198-640x480-480x360.jpg" class="pht-img--fill wp-post-image" alt="" srcset="https://arturkraft.com/stf/uploads/2016/07/trash-1445198-640x480-480x360.jpg 480w, https://arturkraft.com/stf/uploads/2016/07/trash-1445198-640x480-300x225.jpg 300w, https://arturkraft.com/stf/uploads/2016/07/trash-1445198-640x480.jpg 640w" sizes="(max-width: 480px) 100vw, 480px" />
-          
-          <div class="pht-fig__link--ctnr">
-            <a class="pht-fig__link pht-fig__link--hoverdir pht-fig__link--main pht-text-center a-a a-a--no-h" href="https://arturkraft.com/7-branding-mistakes/">
-            
-            <div class="pht-fig__titles pht-epsilon">
-              <span class="pht-actionfont">Read more</span>
-            </div></a>
-            
-            <a href="https://arturkraft.com/stf/uploads/2016/07/trash-1445198-640x480.jpg" class="pht-fig__link js-pht-magnific_popup pht-fig__link--secondary a-a a-a--no-h"><i class="pht-fig__link__string pht-ic-f1-arrow-expand-alt"></i></a>
-          </div></figure> 
-          
-          <div class="pht-box pht-box--highlight pht-parent pht-border-hover">
-            <header class="entry-header pht-text-center"> 
-            
-            <div class="pht-micro entry-meta entry-meta--top entry-meta-date pht-italic container-a container-a--h">
-              <a class="entry-date" href="https://arturkraft.com/7-branding-mistakes/"><time class="entry-date" datetime="2016-07-24T15:23:30+00:00">July 24, 2016</time></a>
-            </div>
-            
-            <a href="https://arturkraft.com/7-branding-mistakes/" class="a-a a-a--h" rel="bookmark">
-            
-            <h2 class="entry-title pht-heading hN pht-mb0 ">
-              7 branding mistakes some companies make
-            </h2></a></header> 
-            
-            <div class="entry-summary pht-entry-summary pht-mt cf">
-              <p>
-                Often, Businesses do not fully understand what is required to successfully ‘brand’ their business. A good logo is not everything that you would use to describe your corporate identity. In fact, it is just the tip of the iceberg! In this article, we will have a look at the more common mistakes in understanding branding and topics related to in branding.
-              </p>
-            </div>
-            
-            <div class="entry-meta pht-micro entry-meta--bottom container-a container-a--h pht-text-center pht-italic pht-mt">
-              <span class="author byline">by <a class="url fn n" href="https://arturkraft.com/author/kraft/" title="View all posts by Artur Kraft" rel="author">Artur Kraft</a></span> &middot; <span class="categories-links">in <span> <a href="https://arturkraft.com/articles/" rel="tag">articles</a>, <a href="https://arturkraft.com/blog/" rel="tag">blog</a></span></span> &middot; <span class="entry-meta nobr"><i class="pht-ic-f1-comments"></i><a href="https://arturkraft.com/7-branding-mistakes/#respond"> <span class="leave-reply"> 0</span></a></span> <!-- .comments-link -->
-            </div>
-            
-            <!-- .entry-meta -->
-          </div></article> </section>
-        </div>
-      </div>
-    </div>
-    
-    <!-- -->
-  </div>
-</div></section>
+
+### 1. Name and logo are not everything.
+
+Many entrepreneurs mistakenly think that by working in their business, they do not need to work on their business. In order to avoid mistakes, you should spend some time working on your business, which includes marketing and branding. Apple is an excellent example of marketing and branding driving the overall company. For your business to form a truly authentic corporate identity, your business will need more than just a business name and log. Without sounding too much like a classic John Lennon song, Imagine if an Apple Store was small, untidy, chaotic and resembled a shop that was hit by a tornado. Imagine if their products were packed in small blue plastic bags that you get from your local off-license, rather than elegant, white, minimalist branded boxes. No one would ever consider shopping in such a store and individuals would not have confidence in the quality of the product. However, Apple has established a brand identity that is clean and clear. Their brand is simple and highly recognizable. This is intended to reflect their products and the company mantra.
+
+Instead of developing only a company’s name and logo, you should consider thinking about its soul and overall mission in order to stay consistent with each part of its branding.
+
+### 2. Logo must be more than just “nice“.
+
+Businesses will often go to design agencies and ask for a “nice” logo. Your logo is not supposed to be simply “nice” or “pretty”. Think of your logo as part of the consistent message that you want to put across. Your opinion is always bound to disagree with someone else’s view. The same is true with your overall vision of the business in that something you find attractive may appear ugly to others. Do not aim to create simply “nice” things. Instead, make your own things, and take ownership! There truly is no better brand than the brand that consistently conveys your true personal vision.
+
+### 3. Inconsistency and unprofessionalism in branding.
+
+Inconsistency within branding occurs regularly, even with established corporations with big marketing departments. The branding book’s guidelines should cover all aspects of branding that include communication with customers in order to stay cohesive at all times. Inconsistent branding will disconnect your customers. However, even consistent branding can still be ineffective if it lacks professionalism. In the cases of both inconsistency and unprofessionalism in branding., company-customer relations will suffer.
+
+### 4. The issue when your brand is something separate from the business.
+
+This often happens when the brand is something separate to the business as it creates a vacuum outside the business. It is inconsistent with company structure and overall mission. This does not happen just with SMEs, it even afflicts larger companies. Make sure your brand is a way to identify your product, and let it come from the core of the business. Try to shift away from a mindset of marketing as an afterthought and a mere item of necessary expenditure. Instead, move towards an embrace of marketing for the potential that it can unlock. PS. set your sights high!
+
+### 5. Changing logo badly.
+
+You might have heard about GAP’s disastrous logo re-branding… In 2010 GAP tried to refresh their brand. The attempt by GAP ranks in history as one of the shortest lived re-brands, and one of the biggest failures. Customers expressed outrage on social media and GAP quickly decided that after a mere 6 days it would need to be a case of ‘out with the new, and in with the old’ as the company reverted back to the classic, original GAP logo.
+
+gap
+This particular re-brand failure soon created a sustainable amount of buzz, not least evident in the many jokes about it. This subsequently led many applying the same kind of rebranding to other famous brands and called the process (http://gapify.tumblr.com/):
+
+ 
+
+tumblr_l9wq4xxJ5p1qe6wjwo1_500
+ 
+
+tumblr_la4rc8a7pz1qe6wjwo1_500
+ 
+
+tumblr_lagaycmZU51qe6wjwo1_500
+ 
+
+ 
+
+ 
+
+tumblr_lagb0lA82p1qe6wjwo1_500
+ 
+
+This tale of re-branding calamity has a simple truth: established and recognised brands SHOULD NOT change without first considering customers. The issue was less in the bad logo design itself, although it was stylistically poor, and more in refreshing the brand without changing anything else. The logo should always be the last part of an overall changes process. Logo changes must not be too drastic; they should be both organic and gradual. A certain trace of consistency should always remain intact from the previous logo. That way, customers are not confused and disconnected from a brand they trust.
+
+### 6. Changing logos too often.
+
+Refreshing logos is a necessary step, from time to time. Nevertheless, re-branding too frequently is dangerous and futile. Customers become confused if the brand changes too often. This disconnects your business and customer base. Recently, companies have tried to adapt a new logo template in particular, a flat design with overall simplicity. Flat design mean removing any shadows or emboss. Adapting a logo and making it a bit more modern is something different from complete change. Pepsi is an example of a company changing logo too often:
+
+Pepsi1
+Source: http://www.gmdist.com/2012/12/11/pepsi-slogans-and-logos-throughout-the-years/
+
+### 7. I need a logo.
+
+What about not using a logo at all? Not everything requires a brand or logo. We are cluttered with brands. Almost everything is branded nowadays, even products worth a penny. Consider leaving some products or services unbranded if they would really still sell fine without a branded logo. Although an unconventional and controversial approach, different companies have already successfully experimented with de-branding. This is especially true of companies that are service and customer-focussed. For instance, Starbucks has opened new premises that are conspicuous by the absence of any branding.
+
+This article was written by me and was published exclusively on InCube website.
+
