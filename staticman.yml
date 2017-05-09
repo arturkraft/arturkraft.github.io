@@ -55,12 +55,12 @@ comments:
     # (!) ENCRYPTED
     #
     # Mailgun API key
-    #apiKey: "key-de9b3f037dcd8e6ab4a9939775439924"
+    #apiKey: "----ns"
 
     # (!) ENCRYPTED
     #
     # Mailgun domain (encrypted)
-    #domain: "mg.arturkraft.com"
+    #domain: "--ns"
 
   # (*) REQUIRED
   #
