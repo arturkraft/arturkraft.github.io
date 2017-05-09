@@ -5,6 +5,6 @@ description: "Contact Artur Kraft"
 permalink: /contact.html
 ---
 
-#Contact me
+# Contact me
 
 {% include form.html %}
