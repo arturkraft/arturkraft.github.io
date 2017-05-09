@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Markup: Text Alignment"
+image: https://arturkraft.com/stf/uploads/2016/07/trash-1445198-640x480.jpg
 categories:
   - Markup
 tags:
