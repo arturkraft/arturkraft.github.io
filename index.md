@@ -5,5 +5,4 @@ layout: home
 
 Do you need a new e-commerce website? Are you interested in developing, redesigning logo? Would you want to request a photography services?
 
-[Check my blog posts](/posts){: .btn}
-<a href="/posts" class="btn_success">Check my blog posts</a>
+[Check my blog posts](/posts){: .btn} [Contact me](/contact){: .btn .btn_success}
