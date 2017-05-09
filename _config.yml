@@ -3,7 +3,7 @@ title: Artur Kraft
 description: E-commerce specialist
 url: http://github.arturkraft.com
 logo: halve.png                                       # Site logo
-locale: en_US
+locale: en_UK
 
 # Left Block Images
 background:
@@ -59,6 +59,7 @@ gems:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-redirect-from
 
 # Exclude list
 include: [_pages]
